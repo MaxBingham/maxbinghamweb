@@ -1,0 +1,51 @@
+/* Overrides after Simple.css: slightly warmer, still quiet. */
+
+:root {
+	--accent: #b45309;
+	--accent-hover: #92400e;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--accent: #fbbf24;
+		--accent-hover: #fcd34d;
+	}
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-size: 1.05rem;
+	line-height: 1.65;
+}
+
+header h1 {
+	letter-spacing: -0.02em;
+	font-weight: 650;
+}
+
+main a {
+	text-underline-offset: 0.18em;
+}
+
+main a:hover {
+	color: var(--accent-hover);
+}
+
+.nav a[aria-current="page"] {
+	font-weight: 600;
+	color: var(--accent);
+}
+
+.postlist-link {
+	font-weight: 500;
+}
+
+footer {
+	margin-top: 3rem;
+	padding-top: 1rem;
+	border-top: 1px solid color-mix(in srgb, CanvasText 14%, transparent);
+	font-size: 0.95rem;
+}
