@@ -1,21 +1,34 @@
 ---
 title: Selected work
-description: ""
+description: Case studies, not a résumé list.
 eleventyNavigation:
   key: Work
-  title: Selected work
+  title: Work
   order: 2
 permalink: /works/
 ---
 
-Each entry below should read like a miniature case study: what the problem was, what you did, what happened—then links (code, PDF, video) if they exist.
+A small, honest selection. Each entry tries to answer: **what was the problem**, **what did I actually do**, **what happened**, and **what would I do differently**. Links live at the end of each entry.
 
-## Example project
+If something feels interesting but sparse, that is usually because the real write-up is still in a notebook.
 
-Two or three sentences of substance beat ten bullet points. Name your role clearly.
+## Bachelor’s thesis — _title and one-line topic_
 
-[Repository](https://github.com/MaxBingham) · _PDF / demo links when you have them_
+_A paragraph on the problem, the approach, the result. Keep your role explicit (what you did vs. what the group did). Include one image or figure if you have one._
 
-## Another project
+**Stack / tools:** _list_ · **Role:** _yours_ · **Year:** _…_  
+[Thesis PDF](#) · [Code](https://github.com/MaxBingham) · [Demo / video](#)
 
-…
+## Project two — _short title_
+
+_One paragraph. Show the trade-off or hard part; do not just list features._
+
+[Repository](https://github.com/MaxBingham) · [Notes](#)
+
+## Project three — _short title_
+
+_Placeholder entry so the structure is visible. Remove once you have three real ones._
+
+---
+
+_Looking for fast, lightweight experiments and half-finished ideas? Those live in [/thoughts/](/thoughts/)._

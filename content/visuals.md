@@ -1,18 +1,29 @@
 ---
 title: Visuals
-description: ""
+description: Photography and other image-led work.
 eleventyNavigation:
   key: Visuals
   order: 3
 permalink: /visuals/
 ---
 
-Photography and other visual work live here. Keep each “piece” small: a short intro, a handful of images with captions, and a link out if there is more context elsewhere.
+I am trying to take photos I would still like to look at in ten years. That means fewer of them, and a little bit of text with each series so I remember what I was looking for.
 
-## First series (placeholder)
+## On the way to class — _series, 2026_
 
-_Add a paragraph about what you were trying to see. Drop images next to this file under `content/visuals/` or use `public/` for large assets—see README._
+_A short paragraph about what caught your eye. Add 4–8 images here by dropping them in `content/visuals/on-the-way-to-class/` and linking them in this page (Eleventy’s image plugin will optimize them automatically)._
+
+_Example image (replace once you have one):_
+
+![A placeholder caption for the first image.](/img/placeholder.svg)
+
+## Ideas I want to shoot
+
+- A Munich building, same frame, once per month for a year
+- Workshop hands
+- Climbing halls after hours
+- Whatever is happening with the sky that week
 
 ---
 
-_Tip: one strong series beats a gallery of everything._
+_Larger files (short video, high-res prints) go under `public/` and get linked from here._
