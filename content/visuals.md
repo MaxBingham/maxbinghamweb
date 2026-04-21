@@ -9,13 +9,9 @@ permalink: /visuals/
 
 I am trying to take photos I would still like to look at in ten years. That means fewer of them, and a little bit of text with each series so I remember what I was looking for.
 
-## On the way to class — _series, 2026_
+## Series
 
-_A short paragraph about what caught your eye. Add 4–8 images here by dropping them in `content/visuals/on-the-way-to-class/` and linking them in this page (Eleventy’s image plugin will optimize them automatically)._
-
-_Example image (replace once you have one):_
-
-![A placeholder caption for the first image.](/img/placeholder.svg)
+- **[First selection](/visuals/first-selection/)** — four frames: metro geometry, a narrow street, Prague’s Dancing House, and a high-contrast plaza in black and white.
 
 ## Ideas I want to shoot
 
