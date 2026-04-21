@@ -11,7 +11,7 @@ Quick summary below. For applications, a polished PDF lives at [`/cv/max-bingham
 
 ## Who I am, in one paragraph
 
-Mechanical engineer (TUM, B.Sc.) moving into **Robotics, Cognition, Intelligence** (TUM, M.Sc.). Comfortable at the intersection of mechanical systems and software — CAD and simulation on one side, Python / control / basic ML on the other. I like problems that reward careful thinking and early prototypes.
+Mechanical engineer (TUM, B.Sc.) now in **Robotics, Cognition, Intelligence** (TUM, M.Sc.). I am **curious about startups**, especially hard tech, and spend time as a **Venture Scout** at [First Momentum Ventures](https://www.firstmomentum.vc/) alongside **robotics research** at TUM Klinikum Rechts der Isar. Comfortable where hardware, software, and messy real-world constraints meet.
 
 ## Education
 
@@ -20,9 +20,9 @@ Mechanical engineer (TUM, B.Sc.) moving into **Robotics, Cognition, Intelligence
 
 ## Selected experience
 
-- _Role, Team / Lab / Company_ — one line on what you did and what it produced.
-- _Role, Team / Lab / Company_ — …
-- _Role, Team / Lab / Company_ — …
+- **Venture Scout** — [First Momentum Ventures](https://www.firstmomentum.vc/) — sourcing, diligencing, and supporting technical founders at pre-seed.
+- **Robotics research** — TUM Klinikum Rechts der Isar — _one line on topic, methods, outcome._
+- _Add internships, thesis, teams, etc._
 
 ## Skills
 
