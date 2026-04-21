@@ -1,21 +1,21 @@
 ---
-title: First selection
-description: Four frames — urban geometry, light, and a bit of luck.
+title: Initial Dump
+description: Marrakech, Morocco · Washington, DC, USA · Prague, Czech Republic (two frames).
 permalink: /visuals/first-selection/
 ---
 
 ← [Back to all visuals](/visuals/)
 
-A small set I pulled from a recent roll. I like how each shot leans on **lines** (the metro vault, the alley, the tower) or **contrast** (sun on stone, black-and-white in the plaza).
+Not a curated series yet — just the first batch I wanted **on the site** so the visuals section is not empty. Order is how I remember taking them.
 
-![Washington Metro — coffered vault and two trains, late platform light.](./000012.jpg)
+![Marrakech, Morocco — plaza, fountain, and palms (black and white).](./09a.jpg)
 
-![Old town alley — looking up between facades toward a slice of sky.](./000043.jpg)
+![Washington, DC, USA — Metro vault, two trains, platform light.](./000012.jpg)
 
-![Prague — Frank Gehry’s Dancing House from the street, overcast sky.](./000048.jpg)
+![Prague, Czech Republic — narrow street, looking up between facades.](./000043.jpg)
 
-![Plaza fountain and palms — black and white, high sun.](./09a.jpg)
+![Prague, Czech Republic — Dancing House from the street, overcast.](./000048.jpg)
 
 ---
 
-**Technical note:** two of the originals may be **one rotation off** in the files (common when scanning or exporting from the camera roll). If anything looks sideways on your screen, rotate once in your editor and replace the `.jpg` in this folder — no code change needed.
+**Technical note:** if any frame still looks one rotation off in the file, rotate in your photo app and overwrite the `.jpg` here — no code change needed.

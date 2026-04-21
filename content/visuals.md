@@ -11,7 +11,7 @@ I am trying to take photos I would still like to look at in ten years. That mean
 
 ## Series
 
-- **[First selection](/visuals/first-selection/)** — four frames: metro geometry, a narrow street, Prague’s Dancing House, and a high-contrast plaza in black and white.
+- **[Initial Dump](/visuals/first-selection/)** — Marrakech (Morocco), Washington, DC (USA), then two from Prague (Czech Republic).
 
 ## Ideas I want to shoot
 
