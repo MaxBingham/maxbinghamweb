@@ -6,7 +6,7 @@ permalink: /visuals/first-selection/
 
 ← [Back to all visuals](/visuals/)
 
-Not a curated series yet — just the first batch I wanted **on the site** so the visuals section is not empty. Order is how I remember taking them.
+Four frames from the same stretch of travel, in the order I remember taking them.
 
 ![Marrakech, Morocco — plaza, fountain, and palms (black and white).](./09a.jpg)
 
@@ -21,7 +21,3 @@ Not a curated series yet — just the first batch I wanted **on the site** so th
 <figure class="photo-rot-90cw">
 <img src="./000048.jpg" alt="Prague, Czech Republic — Dancing House from the street, overcast." loading="lazy" decoding="async">
 </figure>
-
----
-
-These three frames are shown **rotated 90° clockwise in the layout** because the JPEGs came out sideways. When you re-export them correctly oriented, delete the `<figure class="photo-rot-90cw">` wrappers and go back to normal `![…](./file.jpg)` Markdown.

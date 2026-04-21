@@ -19,7 +19,3 @@ Visuals are the most **hands-on** part of this site: a place to slow down, pick 
 - Workshop hands
 - Climbing halls after hours
 - Whatever is happening with the sky that week
-
----
-
-_Larger files (short video, high-res prints) go under `public/` and get linked from here._
