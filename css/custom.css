@@ -34,7 +34,8 @@ body {
 	line-height: 1.65;
 	color: var(--ink, inherit);
 	background: var(--paper, inherit);
-	max-width: 42rem;
+	max-width: 44rem;
+	margin-inline: auto;
 	padding: 1.25rem 1.25rem 4rem;
 }
 

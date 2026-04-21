@@ -23,4 +23,4 @@ This site is mostly text on purpose: fast to load, nothing chasing you, no cooki
   <li><a href="/cv/">CV</a><span class="desc">the résumé version, with a PDF</span></li>
 </ul>
 
-**Elsewhere:** [GitHub](https://github.com/MaxBingham). No socials to link here yet; I may add an email once I pick one worth publishing.
+**Elsewhere:** [GitHub](https://github.com/MaxBingham) · [LinkedIn](https://www.linkedin.com/in/mjbinghamnikol). GitLab coming later; email still to be decided.
