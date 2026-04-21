@@ -1,6 +1,6 @@
 ---
 title: Selected work
-description: Case studies, not a résumé list.
+description: Optional deep dives — when a project deserves more than a CV line.
 eleventyNavigation:
   key: Work
   title: Work

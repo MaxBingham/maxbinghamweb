@@ -6,14 +6,14 @@ eleventyNavigation:
   order: 1
 ---
 
-<p class="lede">Hi, I’m <strong>Max</strong>. I am <strong>curious about startups</strong>—especially hard tech where something physical has to work, not just a slide deck—and I spend most of my time in <strong>robotics</strong> and <strong>venture scouting</strong>.</p>
+<p class="lede">This site is my <strong>creative space</strong> first: <strong>photos</strong>, <strong>scraps of writing</strong>, and things I make when nobody is grading them. Robotics, startups, and research are the serious day job — they show up here when they overlap with something I actually want to put on the internet.</p>
 
-**Right now:** **M.Sc. Robotics, Cognition, Intelligence** at TUM · **Venture Scout** at [First Momentum Ventures](https://www.firstmomentum.vc/) · **Robotics research** at TUM Klinikum Rechts der Isar.
+**Day job, in one line:** **M.Sc. Robotics, Cognition, Intelligence** at TUM · **Venture Scout** at [First Momentum Ventures](https://www.firstmomentum.vc/) · **Robotics research** at TUM Klinikum Rechts der Isar.
 
-I studied mechanical engineering at TUM (B.Sc.) and still care about systems you can reason about, build, and test. This site is small on purpose: fast, no tracking, mostly text. The menu above has **work**, **CV**, **visuals**, and **thoughts** when you want more than this blurb.
+I studied mechanical engineering at TUM (B.Sc.) and still like systems you can build and test. Technically this is still a static Eleventy site: fast, no tracking, mostly text. Use the menu for **visuals**, **thoughts**, **work** (sparse on purpose), and a plain **CV** when someone needs the résumé version.
 
 <aside class="now">
-<strong>Site note —</strong> I may trim or reshape the “work” section over time; the signal I care about is less “every project ever” and more a few stories told well.
+<strong>House rules —</strong> nothing here has to be “portfolio ready.” If it is honest and interesting to me, it can stay. Good images and short notes beat polished emptiness.
 </aside>
 
 **Elsewhere:** [GitHub](https://github.com/MaxBingham) · [LinkedIn](https://www.linkedin.com/in/mjbinghamnikol) · [max.bingham-nikol@tum.de](mailto:max.bingham-nikol@tum.de). GitLab later.

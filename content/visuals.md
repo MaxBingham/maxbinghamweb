@@ -1,13 +1,13 @@
 ---
 title: Visuals
-description: Photography and other image-led work.
+description: Film, frames, and experiments — part of the creative half of this site.
 eleventyNavigation:
   key: Visuals
   order: 4
 permalink: /visuals/
 ---
 
-I am trying to take photos I would still like to look at in ten years. That means fewer of them, and a little bit of text with each series so I remember what I was looking for.
+Visuals are the most **hands-on** part of this site: a place to slow down, pick a few frames, and write a sentence or two about why they mattered in the moment. I am not trying to build a gallery brand — just a shelf I actually revisit.
 
 ## Series
 

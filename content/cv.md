@@ -15,7 +15,7 @@ Mechanical engineer (TUM, B.Sc.) now in **Robotics, Cognition, Intelligence** (T
 
 ## Education
 
-- **M.Sc. Robotics, Cognition, Intelligence** — TU Munich · _starting …_
+- **M.Sc. Robotics, Cognition, Intelligence** — TU Munich · _in progress_
 - **B.Sc. Mechanical Engineering** — TU Munich · _completed …_
 
 ## Selected experience
