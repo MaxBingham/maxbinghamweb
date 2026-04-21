@@ -1,34 +1,34 @@
 ---
 title: CV
-description: Summary and PDF.
+description: Summary — currently and previously.
 eleventyNavigation:
   key: CV
   order: 3
 permalink: /cv/
 ---
 
-## Who I am, in one paragraph
+## Who I am
 
-Mechanical engineer (TUM, B.Sc.) now in **Robotics, Cognition, Intelligence** (TUM, M.Sc.). I am **curious about startups**, especially hard tech, and spend time as a **Venture Scout** at [First Momentum Ventures](https://www.firstmomentum.vc/) alongside **robotics research** at TUM Klinikum Rechts der Isar. Comfortable where hardware, software, and messy real-world constraints meet.
+Mechanical engineer, **curious about startups** (especially hard tech), and comfortable where hardware, software, and real-world constraints meet.
 
-## Education
+### Currently
 
-- **M.Sc. Robotics, Cognition, Intelligence** — TU Munich · in progress
-- **B.Sc. Mechanical Engineering** — TU Munich
+- **M.Sc. Robotics, Cognition, Intelligence** — TU Munich  
+- **Venture Scout** — [First Momentum Ventures](https://www.firstmomentum.vc/)  
+- **Robotics research** — TUM Klinikum Rechts der Isar  
 
-## Selected experience
+### Previously
 
-- **Venture Scout** — [First Momentum Ventures](https://www.firstmomentum.vc/)
-- **Robotics research** — TUM Klinikum Rechts der Isar
+- **B.Sc. Mechanical Engineering** — TU Munich  
 
 ## Skills
 
-- **Engineering:** CAD, FEM/CFD, mechatronics, prototyping
-- **Software:** Python, MATLAB, C++, Git, Linux
-- **Robotics / ML:** classical control, ROS, PyTorch
-- **Languages:** German, English
+- **Engineering:** CAD, FEM/CFD, mechatronics, prototyping  
+- **Software:** Python, MATLAB, C++, Git, Linux  
+- **Robotics / ML:** classical control, ROS, PyTorch  
+- **Languages:** German, English  
 
 ## Contact
 
-- [max.bingham-nikol@tum.de](mailto:max.bingham-nikol@tum.de)
-- [GitHub](https://github.com/MaxBingham) · [LinkedIn](https://www.linkedin.com/in/mjbinghamnikol)
+- [max.bingham-nikol@tum.de](mailto:max.bingham-nikol@tum.de)  
+- [GitHub](https://github.com/MaxBingham) · [LinkedIn](https://www.linkedin.com/in/mjbinghamnikol)  
