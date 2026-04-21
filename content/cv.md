@@ -7,6 +7,8 @@ eleventyNavigation:
 permalink: /cv/
 ---
 
+[Download CV (PDF)](/cv/max-bingham-cv.pdf)
+
 ## Who I am
 
 Mechanical engineer, **curious about startups** (especially hard tech), and comfortable where hardware, software, and real-world constraints meet.

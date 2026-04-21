@@ -18,6 +18,6 @@ eleventyNavigation:
 
 - **B.Sc. Mechanical Engineering** — TU Munich  
 
-The site stays light: fast, no tracking, mostly text. **Visuals**, **thoughts**, **work**, and **CV** are in the menu above.
+The site stays light: fast, no tracking, mostly text. **Visuals**, **thoughts**, **work**, and **CV** are in the menu above — or go straight to the [**CV (PDF)**](/cv/max-bingham-cv.pdf).
 
 **Elsewhere:** [GitHub](https://github.com/MaxBingham) · [LinkedIn](https://www.linkedin.com/in/mjbinghamnikol) · [max.bingham-nikol@tum.de](mailto:max.bingham-nikol@tum.de)
