@@ -3,7 +3,7 @@ title: CV
 description: Résumé version. A PDF will live here too.
 eleventyNavigation:
   key: CV
-  order: 5
+  order: 3
 permalink: /cv/
 ---
 

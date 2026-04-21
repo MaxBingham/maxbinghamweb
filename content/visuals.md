@@ -3,7 +3,7 @@ title: Visuals
 description: Photography and other image-led work.
 eleventyNavigation:
   key: Visuals
-  order: 3
+  order: 4
 permalink: /visuals/
 ---
 

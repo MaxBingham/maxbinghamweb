@@ -18,9 +18,9 @@ This site is mostly text on purpose: fast to load, nothing chasing you, no cooki
 
 <ul class="map">
   <li><a href="/works/">Work</a><span class="desc">things I built or figured out, written up honestly</span></li>
+  <li><a href="/cv/">CV</a><span class="desc">the résumé version, with a PDF</span></li>
   <li><a href="/visuals/">Visuals</a><span class="desc">photography and anything image-led</span></li>
   <li><a href="/thoughts/">Thoughts</a><span class="desc">short posts, when I have something to say</span></li>
-  <li><a href="/cv/">CV</a><span class="desc">the résumé version, with a PDF</span></li>
 </ul>
 
 **Elsewhere:** [GitHub](https://github.com/MaxBingham) · [LinkedIn](https://www.linkedin.com/in/mjbinghamnikol) · [max.bingham-nikol@tum.de](mailto:max.bingham-nikol@tum.de). GitLab coming later.
