@@ -33,4 +33,5 @@ Mechanical engineer (TUM, B.Sc.) moving into **Robotics, Cognition, Intelligence
 
 ## Contact
 
-Easiest route: [GitHub](https://github.com/MaxBingham). Email to be added.
+- Email: [max.bingham-nikol@tum.de](mailto:max.bingham-nikol@tum.de)
+- [GitHub](https://github.com/MaxBingham) · [LinkedIn](https://www.linkedin.com/in/mjbinghamnikol)
