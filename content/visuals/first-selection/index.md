@@ -10,14 +10,14 @@ Four frames from the same stretch of travel, in the order I remember taking them
 
 ![Marrakech, Morocco — plaza, fountain, and palms (black and white).](./09a.jpg)
 
-<figure class="photo-rot-90cw">
+<figure class="photo-rot-180">
 <img src="./000012.jpg" alt="Washington, DC, USA — Metro vault, two trains, platform light." loading="lazy" decoding="async">
 </figure>
 
-<figure class="photo-rot-90cw">
+<figure class="photo-rot-180">
 <img src="./000043.jpg" alt="Prague, Czech Republic — narrow street, looking up between facades." loading="lazy" decoding="async">
 </figure>
 
-<figure class="photo-rot-90cw">
+<figure class="photo-rot-180">
 <img src="./000048.jpg" alt="Prague, Czech Republic — Dancing House from the street, overcast." loading="lazy" decoding="async">
 </figure>

@@ -224,17 +224,16 @@ hr {
 	margin: 2rem 0;
 }
 
-/* Display-only fix for JPEGs exported one turn sideways (replace files when convenient). */
-figure.photo-rot-90cw {
+figure.photo-rot-180 {
 	margin: 3rem auto;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	overflow: visible;
 }
-figure.photo-rot-90cw img {
+figure.photo-rot-180 img {
 	display: block;
-	transform: rotate(90deg);
+	transform: rotate(180deg);
 	max-height: min(92vw, 88vh);
 	width: auto;
 	height: auto;
