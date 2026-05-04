@@ -2,7 +2,7 @@
 <html lang="{{ metadata.language }}">
 	<head>
 		<meta charset="utf-8">
-		<script>
+		<script eleventy:ignore>
 			try {
 				var __t = localStorage.getItem("theme");
 				if (__t === "dark" || __t === "light") document.documentElement.setAttribute("data-theme", __t);
@@ -64,6 +64,7 @@
 				<a href="/works/">Work</a> ·
 				<a href="/cv/">CV</a> ·
 				<a href="/visuals/">Visuals</a> ·
+				<a href="/reads/">Reads</a> ·
 				<a href="/thoughts/">Thoughts</a> ·
 				<a href="/feed/feed.xml">Atom</a>
 			</p>
@@ -75,7 +76,7 @@
 			<p class="muted"><a href="https://github.com/MaxBingham/maxbinghamweb">Source</a></p>
 		</footer>
 
-		<script defer src="{{ '/js/theme-toggle.js' | url }}"></script>
+		<script defer src="/js/theme-toggle.js"></script>
 		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
 	</body>
 </html>
