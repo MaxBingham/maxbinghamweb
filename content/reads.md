@@ -1,9 +1,6 @@
 ---
 title: Reads
 description: Books, papers, and links worth returning to.
-eleventyNavigation:
-  key: Reads
-  order: 6
 permalink: /reads/
 ---
 

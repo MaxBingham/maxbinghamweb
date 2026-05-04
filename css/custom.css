@@ -201,6 +201,40 @@ nav[aria-label="Primary"] .nav {
 	font-weight: 600;
 }
 
+/* Social icons (header) */
+.social-icons {
+	display: flex;
+	align-items: center;
+	gap: 0.35rem;
+}
+
+.social-icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 2rem;
+	height: 2rem;
+	color: var(--nav-muted);
+	text-decoration: none;
+	border-radius: 4px;
+	transition: color 120ms ease, background 120ms ease;
+}
+
+.social-icon:hover {
+	color: var(--nav-text);
+	background: color-mix(in srgb, var(--nav-text) 8%, transparent);
+}
+
+.social-icon:focus-visible {
+	outline: 2px solid var(--focus);
+	outline-offset: 3px;
+}
+
+.social-icon svg {
+	width: 1.1rem;
+	height: 1.1rem;
+}
+
 .theme-toggle {
 	font-family: var(--font-sans);
 	display: inline-flex;
