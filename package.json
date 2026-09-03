@@ -2,10 +2,11 @@
 	"name": "maxbinghamweb",
 	"version": "1.0.0",
 	"private": true,
-	"description": "Personal site (Eleventy + Simple.css): work, visuals, thoughts.",
+	"description": "Personal homepage for Max Bingham Nikol.",
 	"type": "module",
 	"scripts": {
-		"build": "npx @11ty/eleventy",
+		"clean": "rm -rf _site",
+		"build": "npm run clean && npx @11ty/eleventy",
 		"start": "npx @11ty/eleventy --serve --quiet",
 		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy"
 	},
@@ -13,7 +14,7 @@
 		"type": "git",
 		"url": "https://github.com/MaxBingham/maxbinghamweb.git"
 	},
-	"author": "Max Bingham",
+	"author": "Max Bingham Nikol",
 	"license": "MIT",
 	"engines": {
 		"node": ">=18"
@@ -21,7 +22,6 @@
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.5",
 		"@11ty/eleventy-img": "^6.0.4",
-		"@11ty/eleventy-navigation": "^1.0.5",
 		"@11ty/eleventy-plugin-rss": "^3.0.0",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
 		"cross-env": "^10.1.0",

@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <style>{% include "node_modules/prismjs/themes/prism-okaidia.css" %}</style>
 <style>{% include "css/prism-diff.css" %}</style>
 
-<p>Posted on: <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></p>
+<p class="post-meta">Posted <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate("dd LLL, yyyy") }}</time></p>
 
 {{ content | safe }}
 
@@ -22,7 +22,7 @@ layout: layouts/base.njk
 <ul>
   {%- for tag in tags | filterTagList %}
   {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-  <li><a href="{{ tagUrl | url }}">{{ tag }}</a></li>
+  <li><a href="{{ tagUrl }}">{{ tag }}</a></li>
   {%- endfor %}
 </ul>
 {%- endif %}

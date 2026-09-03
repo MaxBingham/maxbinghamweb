@@ -1,11 +1,12 @@
 export default {
-	title: "Max Bingham — a small creative space",
+	title: "Max Bingham Nikol",
 	url: "https://maxbingham.github.io/maxbinghamweb/",
+	origin: "https://maxbingham.github.io/",
 	language: "en",
-	description: "Creative space for photos and notes. Currently: RCI MSc at TUM, Venture Scout at First Momentum, robotics research at Klinikum Rechts der Isar.",
+	description: "German-American mechanical engineer and robotics graduate student, currently visiting UC Berkeley.",
 	author: {
-		name: "Max Bingham",
-		email: "",
+		name: "Max Bingham Nikol",
+		email: "max.bingham-nikol@tum.de",
 		url: "https://github.com/MaxBingham",
 	},
 };

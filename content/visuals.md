@@ -1,21 +1,33 @@
 ---
-title: Visuals
-description: Film, frames, and experiments — part of the creative half of this site.
-eleventyNavigation:
-  key: Visuals
-  order: 4
-permalink: /visuals/
+title: Photos
+description: Film frames and photo experiments.
+permalink: /photos/
 ---
 
-Visuals are the most **hands-on** part of this site: a place to slow down, pick a few frames, and write a sentence or two about why they mattered in the moment. I am not trying to build a gallery brand — just a shelf I actually revisit.
+Film frames and photo experiments. A small shelf, not a portfolio.
 
-## Series
+## [Film pictures](/photos/film/)
 
-- **[Initial Dump](/visuals/first-selection/)** — Marrakech (Morocco), Washington, DC (USA), then two from Prague (Czech Republic).
+Marrakech, Washington, DC, and Prague.
 
-## Ideas I want to shoot
+<div class="photo-gallery">
+<figure>
+<img src="./visuals/first-selection/09a.jpg" alt="Marrakech, Morocco — plaza, fountain, and palms." loading="lazy" decoding="async">
+<figcaption>Marrakech, Morocco</figcaption>
+</figure>
 
-- A Munich building, same frame, once per month for a year
-- Workshop hands
-- Climbing halls after hours
-- Whatever is happening with the sky that week
+<figure>
+<img class="photo-gallery-flip" src="./visuals/first-selection/000012.jpg" alt="Washington, DC — Metro vault, two trains, platform light." loading="lazy" decoding="async">
+<figcaption>Washington, DC</figcaption>
+</figure>
+
+<figure>
+<img class="photo-gallery-flip" src="./visuals/first-selection/000043.jpg" alt="Prague — narrow street, looking up between facades." loading="lazy" decoding="async">
+<figcaption>Prague, Czech Republic</figcaption>
+</figure>
+
+<figure>
+<img class="photo-gallery-flip" src="./visuals/first-selection/000048.jpg" alt="Prague — Dancing House from the street, overcast." loading="lazy" decoding="async">
+<figcaption>Prague, Czech Republic</figcaption>
+</figure>
+</div>

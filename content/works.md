@@ -1,13 +1,13 @@
 ---
-title: Selected work
-description: Longer write-ups when a project deserves more than a CV line.
-eleventyNavigation:
-  key: Work
-  title: Work
-  order: 2
+title: Technical work
+description: The detailed project portfolio lives on GitHub.
 permalink: /works/
 ---
 
-This section stays light: occasional case studies when something technical is worth unpacking in more detail than fits on the CV.
+This website is a summary, not a project archive. Code, experiments, setup instructions, and technical context are collected on [GitHub](https://github.com/MaxBingham).
 
-Nothing listed here yet.
+- [Feedbot — autonomous SO-101 manipulation](https://github.com/MaxBingham/RoboticsHackCal)
+- [LiDAR weather-fault injection for odometry](https://github.com/MaxBingham/LiDAR_Odometry_FaultInjection_Thesis)
+- [Franka Panda RGB-D sorting environment](https://github.com/MaxBingham/Simulation-Scene-Setup)
+
+[See all technical work →](https://github.com/MaxBingham)

@@ -1,7 +1,6 @@
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
-import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
@@ -31,6 +30,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addWatchTarget("css/**/*.css");
 	// Watch images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
+	eleventyConfig.addWatchTarget("public/img/**/*.{svg,webp,png,jpg,jpeg,gif,avif}");
 
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
 	// Bundle <style> content and adds a {% css %} paired shortcode
@@ -53,7 +53,6 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
 		preAttributes: { tabindex: 0 }
 	});
-	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
@@ -67,11 +66,12 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: metadata.language,
-			title: `${metadata.title} — thoughts`,
+			title: `${metadata.title} — blog`,
 			subtitle: metadata.description,
-			base: metadata.url,
+			base: metadata.origin,
 			author: {
 				name: metadata.author.name,
+				email: metadata.author.email,
 			},
 		},
 	});
@@ -104,10 +104,6 @@ export default async function(eleventyConfig) {
 		// by default we use Eleventy’s built-in `slugify` filter:
 		// slugify: eleventyConfig.getFilter("slugify"),
 		// selector: "h1,h2,h3,h4,h5,h6", // default
-	});
-
-	eleventyConfig.addShortcode("currentBuildDate", () => {
-		return (new Date()).toISOString();
 	});
 
 	// Features to make your build faster (when you need them)

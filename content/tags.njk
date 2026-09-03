@@ -1,4 +1,7 @@
-<h1>Tags</h1>
+---
+title: Tags
+eleventyExcludeFromCollections: true
+---
 
 <ul>
 {% for tag in collections | getKeys | filterTagList | sortAlphabetically %}

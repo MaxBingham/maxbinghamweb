@@ -1,10 +1,10 @@
 ---
-title: Initial Dump
+title: Film Pictures
 description: Marrakech, Morocco · Washington, DC, USA · Prague, Czech Republic (two frames).
-permalink: /visuals/first-selection/
+permalink: /photos/film/
 ---
 
-← [Back to all visuals](/visuals/)
+← [Back to photos](/photos/)
 
 Four frames from the same stretch of travel, in the order I remember taking them.
 

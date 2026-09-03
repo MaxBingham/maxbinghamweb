@@ -4,7 +4,7 @@ Everything lives in `content/`. Write Markdown, commit to `main`, and the site r
 
 ---
 
-## New blog post (Thoughts)
+## New blog post (Blog)
 
 Create a file in `content/blog/` named `YYYY-MM-DD-slug.md`:
 
@@ -20,13 +20,13 @@ tags:
 Body text in Markdown. Images go in the same folder or `public/img/`.
 ```
 
-That's it — it appears on `/thoughts/` and in the Atom feed automatically.
+That's it — it appears on `/blog/` and in the Atom feed automatically.
 
 **Draft?** Add `draft: true` to the front matter. It will show locally (`npm start`) but won't be published on build.
 
 ---
 
-## New visual series
+## New photo series
 
 1. Create a folder: `content/visuals/your-series-name/`
 2. Drop images into that folder.
@@ -36,20 +36,20 @@ That's it — it appears on `/thoughts/` and in the Atom feed automatically.
 ---
 title: Series title
 description: Where and when.
-permalink: /visuals/your-series-name/
+permalink: /photos/your-series-name/
 ---
 
-← [Back to all visuals](/visuals/)
+← [Back to photos](/photos/)
 
 Caption or intro text.
 
 ![Alt text describing the image.](./your-image.jpg)
 ```
 
-4. Link the series from `content/visuals.md` under **## Series**:
+4. Link the series from `content/visuals.md`:
 
 ```md
-- **[Series title](/visuals/your-series-name/)** — Short description.
+- **[Series title](/photos/your-series-name/)** — Short description.
 ```
 
 ---
@@ -69,7 +69,7 @@ permalink: /works/project-name/
 Write-up here. Images in the same folder work fine.
 ```
 
-3. Remove the "Nothing listed here yet." line from `content/works.md` and add a link:
+3. Add the new write-up to `content/works.md`:
 
 ```md
 - **[Project name](/works/project-name/)** — Short description.
@@ -79,28 +79,23 @@ Write-up here. Images in the same folder work fine.
 
 ## Update the CV
 
-Edit `content/cv.md` directly. Replace the PDF at `public/cv/max-bingham-cv.pdf` when it changes.
+Edit `content/cv.md` directly. The web page is the canonical CV.
 
 ---
 
 ## Add a standalone page
 
-Create `content/page-name.md` with a `permalink` and optional `eleventyNavigation` block:
+Create `content/page-name.md` with a permalink, then add its link directly to `_includes/layouts/base.njk` if it belongs in the header or footer:
 
 ```md
 ---
 title: Page title
 description: What this page is.
 permalink: /page-name/
-eleventyNavigation:
-  key: PageName
-  order: 6
 ---
 
 Content here.
 ```
-
-The `eleventyNavigation` block adds it to the header nav. `order` controls position (Work = 2, CV = 3, Visuals = 4, Thoughts = 5).
 
 ---
 
@@ -111,9 +106,9 @@ The `eleventyNavigation` block adds it to the header nav. `order` controls posit
 | Write a thought          | New `.md` in `content/blog/`                                   |
 | Post photos              | New folder + `index.md` in `content/visuals/`, link from `visuals.md` |
 | Write up a project       | New folder + `index.md` in `content/works/`, link from `works.md`    |
-| Update my CV             | Edit `content/cv.md`, replace `public/cv/max-bingham-cv.pdf`  |
-| Add a nav page           | New `.md` in `content/` with `eleventyNavigation`              |
-| Add a portrait to home   | Put image in `public/img/`, uncomment the `<img>` in `content/index.md` |
+| Update my CV             | Edit `content/cv.md`                                            |
+| Add a nav page           | New `.md` in `content/`, then update `base.njk`                 |
+| Update the homepage      | Edit `content/index.md`                                         |
 | Change site metadata     | Edit `_data/metadata.js`                                       |
 
 ## Run locally
